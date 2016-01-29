@@ -1,0 +1,20 @@
+#######################################
+# Syntax Coloring Map For Shield2AMotor
+####################################### 
+# Class
+#######################################
+
+Shield2AMotor	KEYWORD3
+
+#######################################
+# Methods and Functions 
+#######################################	
+
+control	KEYWORD2
+
+#######################################
+# Constants
+#######################################
+ 
+SIGNED_MAGNITUDE	LITERAL1
+LOCKED_ANTI_PHASE	LITERAL1
